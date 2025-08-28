@@ -703,7 +703,7 @@ img {
     height: 20px;
   }
 
-  /* Hide robot on very small screens for performance */
+  /* Untuk menyembunyian robot pas di minimalise ke hp pake display none media 600px */
   .robot {
     display: none;
   }
